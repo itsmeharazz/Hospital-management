@@ -25,7 +25,7 @@
     margin:25,
     nav:false,
     autoplay:true,
-    autoplayTimeout:2000,
+    autoplayTimeout:2500,
     autoplayHoverPause:true,
     responsive:{
         0:{
